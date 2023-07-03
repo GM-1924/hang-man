@@ -1,0 +1,8 @@
+# ignroe All Videos
+*.mp4
+*.code-workspace
+*.md
+assets/
+
+
+
